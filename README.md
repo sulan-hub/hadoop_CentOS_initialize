@@ -1,0 +1,1 @@
+# hadoop_CentOS_initialize
